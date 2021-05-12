@@ -1,0 +1,21 @@
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+#h1{
+    color: brown;
+}
+.item{
+    border: solid 1px black;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+/*  */
